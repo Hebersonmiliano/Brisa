@@ -758,14 +758,22 @@ $('#helpBtn').addEventListener('click',()=>{$('#intro').hidden=false});
 $('#startBtn').addEventListener('click',()=>{$('#intro').hidden=true;G.helpSeen=true;dirty=true});
 
 // ---------- entrada ----------
+const OBJ_BOX={tree:[-9,-26,9,2],pine:[-8,-29,8,2],rock:[-7,-9,7,2],bush:[-7,-11,7,2],stump:[-4,-6,4,2],cerca:[-4,-12,4,2],lanterna:[-4,-21,4,2],banco:[-8,-12,8,2],canteiro:[-8,-12,8,3],casinha:[-6,-24,6,2],flower:[-6,-8,6,3]};
 function pickTile(cx,cy){
   const wx=cx/SC-ox, wy=cy/SC-oy;
-  const fx=Math.floor((wx/(TW/2)+wy/(TH/2))/2+.5), fy=Math.floor((wy/(TH/2)-wx/(TW/2))/2+.5);
+  const fx=Math.round((wx/(TW/2)+wy/(TH/2))/2), fy=Math.round((wy/(TH/2)-wx/(TW/2))/2);
   let best=null,bs=-1;
-  for(let dy=-1;dy<=3;dy++)for(let dx=-1;dx<=3;dx++){
-    const x=fx+dx,y=fy+dy,t=tile(x,y);if(!t)continue;
+  for(let dy=-2;dy<=4;dy++)for(let dx=-2;dx<=4;dx++){
+    const x=fx+dx,y=fy+dy,t=tile(x,y);if(!t||x+y<=bs)continue;
     const sx=(x-y)*TW/2, sy=(x+y)*TH/2-t.h*HZ+(t.g==='water'?3:0);
-    if(Math.abs(wx-sx)/(TW/2)+Math.abs(wy-sy)/(TH/2)<=1&&x+y>bs){bs=x+y;best=[x,y]}
+    const ddx=Math.abs(wx-sx)/(TW/2), rel=wy-sy;
+    // bloco: losango do topo + laterais até o chão
+    const depth=t.g==='water'?0:t.h*HZ+5;
+    let hit=ddx<=1&&rel>=-(TH/2)*(1-ddx)&&rel<=(TH/2)*(1-ddx)+depth;
+    // objeto alto (árvore, pedra...)
+    const bx=t.o&&OBJ_BOX[t.o];
+    if(!hit&&bx)hit=wx-sx>=bx[0]&&wx-sx<=bx[2]&&rel>=bx[1]&&rel<=bx[3];
+    if(hit){bs=x+y;best=[x,y]}
   }
   return best;
 }
