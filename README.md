@@ -27,7 +27,7 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 | --- | --- | --- |
 | 1 | Mão | Colhe flores e frutinhas, abre Bancada, Forno e Fogão, martela a obra da casa, guarda construções |
 | 2 | Machado | Corta árvores e tocos |
-| 3 | Picareta | Quebra pedras e veios de cobre, ferro, cristal e ouro (ouro só na ilhota) |
+| 3 | Picareta | Quebra pedras e veios de cobre, ferro, cristal e ouro (ouro raro nas colinas, comum na ilhota) |
 | 4 | Enxada | Ara a grama; na areia cava argila (perto da água) ou areia |
 | 5 | Regador | Molha a terra; enche na água |
 | 6 | Sementes | Nabo, milho e abóbora |
