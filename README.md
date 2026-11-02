@@ -16,7 +16,7 @@ Abra o `index.html` no navegador ou ative o GitHub Pages (Settings → Pages →
 | Trocar semente ou construção | R | Toque no chip acima da barra |
 | Zoom | + e − ou rodinha do mouse | Botões + e − ou pinça com dois dedos |
 | Pescar | Espaço para fisgar e segurar | Toque no "!" e segure |
-| Mochila / Mercado | B / M | Botões no canto |
+| Mochila / Mercado / Guia da casa | B / M / C | Botões no canto |
 
 O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticamente.
 
