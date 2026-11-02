@@ -33,20 +33,21 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 | 7 | Vara | Pesca no lago e no mar |
 | 8 | Construir | Bancada, forno, cais, placa da casa, cercas, lanternas e móveis |
 
-## O que tem (v0.3)
+## O que tem (v0.4)
 
 - **Personagem articulado:** rig de 15 peças com pivôs e animações por keyframes (andar, cortar, minerar, arar, regar, plantar, martelar, lançar, puxar, mostrar o peixe, comemorar), vistas de frente e de costas com espelhamento, piscar de olhos, camisa e chapéu personalizáveis
 - **Recursos:** madeira, pedra, cobre, ferro, cristal, argila, areia, fibra, flores e frutinhas
 - **Bancada e Forno:** tábuas, iscas, varas, tijolos, telhas e vidro
 - **Casa:** placa de terreno 3 × 3, 6 fases de obra (fundação, estrutura, paredes, telhado, porta e janelas, acabamento), fumaça na chaminé e janelas acesas à noite
 - **Interior:** cama (dormir pula a noite e salva), mesa, cadeira, tapete, estante com o Diário de Pesca, fogão com receitas, vaso e luminária de cristal
-- **Pesca:** lago e mar com 10 espécies por horário, boia, mordida, minigame de faixa verde, tamanhos, recordes e diário
+- **Pesca:** lago e mar com 12 espécies por horário e estação (truta e bacalhau no inverno), boia, mordida, minigame de faixa verde, tamanhos, recordes e diário
 - **Animais:** galinha (ovo), vaca (leite) e ovelha (lã) no Galinheiro e no Estábulo; ração da Bancada ou do Mercado, carinho e corações, Comedouro que alimenta sozinho; gato ou cachorro que segue você e traz presentes
 - **Receitas novas no Fogão:** omelete, queijo e bolo de milho
-- **Horta:** nabo, milho e abóbora que crescem só com a terra regada
+- **Estações:** primavera, verão, outono e inverno de 7 dias cada, com paisagem própria (folhas douradas, neve, lago congelado), chuva que rega a horta e neve no inverno
+- **Horta:** nabo, milho, abóbora, morango (rebrota) e melancia, cada um na sua estação; só cresce com a terra regada
 - **Mercado:** venda de tudo o que você produz e compra de sementes e iscas
 - **Música:** trilha lo-fi gerada na hora (piano elétrico, baixo, bateria leve, melodia de sininho), mais calma à noite, e efeitos para cada ação
-- **31 tarefas** em sequência que ensinam cada sistema
+- **34 tarefas** em sequência que ensinam cada sistema
 - Ciclo de dia e noite com lanternas, borboletas e vagalumes
 
 ## Próximas versões
@@ -54,7 +55,6 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 | Versão | Conteúdo |
 | --- | --- |
 | v0.3 | Código dividido em módulos ES, barraca do mercado no cais, aquário |
-| v0.4 | Quatro estações com culturas e peixes próprios |
 | v0.5 | Ilhota secreta e segundo andar da casa |
 
 ## Tecnologia
