@@ -35,7 +35,7 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 | 7 | Vara | Pesca no lago e no mar |
 | 8 | Construir | Bancada, forno, cais, placa da casa, cercas, lanternas e móveis |
 
-## O que tem (v0.11)
+## O que tem (v0.12)
 
 - **Personagem articulado:** rig de 15 peças com pivôs e animações por keyframes (andar, cortar, minerar, arar, regar, plantar, martelar, lançar, puxar, mostrar o peixe, comemorar), vistas de frente e de costas com espelhamento, piscar de olhos, camisa e chapéu personalizáveis
 - **Recursos:** madeira, pedra, cobre, ferro, cristal, argila, areia, fibra, flores e frutinhas
@@ -56,7 +56,8 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 - **Bigorna e ferramentas melhores:** machado, picareta, enxada e regador sobem para cobre, ferro e ouro (fica pronta na manhã seguinte); mais madeira e pedra, minério em dobro, cristal escondido, arar e regar 3 em linha ou 3 × 3, terra adubada e regador que nunca esvazia; ferramenta mais rápida e com a cor do metal
 - **Mina:** entrada de madeira nas pedras da ilha e 20 andares de caverna escura iluminada pela sua lanterna; em cada andar uma pedra esconde a escada para descer; cobre e ferro no começo, cristal e ouro no meio e gemas raras no fundo (ouro e gema pedem picareta de ferro); cogumelos no chão, elevador a cada 5 andares e um baú antigo no andar 20
 - **Reforma da casa:** com o Tobias (2 corações), amplie o térreo para 9 × 9 com varanda e construa o segundo andar com escada e janelão para o mar; móveis novos: lareira, sofá, poltrona, aquário com os seus peixes, estante de troféus, quadro das estações, cama de casal, baú de guardar (20 tipos), cozinha completa (receitas em dobro), planta grande e tapete redondo
-- **63 tarefas** em sequência que ensinam cada sistema
+- **Ajudante:** contrate o Juca no Mercado (com a casa pronta); toda manhã ele alimenta e faz carinho nos animais, coleta ovo, leite, lã e trufas, rega a horta e colhe o que estiver maduro, conforme as tarefas que você ligar; diária de 20 a 55 moedas, ração da mochila ou comprada; ele passeia pela fazenda de dia e você toca nele para ver o relatório
+- **65 tarefas** em sequência que ensinam cada sistema
 - **Onde achar:** guia de todos os recursos com ferramenta e lugar, e uma seta amarela que aponta o mais perto (também pela barra do topo)
 - Ciclo de dia e noite com lanternas, borboletas e vagalumes
 
@@ -64,7 +65,6 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 
 | Versão | Conteúdo |
 | --- | --- |
-| v0.12 | Ajudante para os animais e a horta |
 | v0.13 | Cavalo |
 | v1.0 | Namoro, casamento e filhos |
 
