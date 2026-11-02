@@ -61,6 +61,16 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 | v0.7 | Festivais por estação e decoração da vila |
 | v0.8 | Segundo andar da casa e mais móveis |
 
+### Ideias na lista (sem ordem definida)
+
+- Regador automático (aspersor) para a horta
+- Ajudante que cuida dos animais e das plantações
+- Melhoria das ferramentas (cobre, ferro e ouro)
+- Mina subterrânea com andares e minérios raros
+- Namoro, casamento e filhos com moradores
+- Porco (trufas) e cavalo (montaria)
+- Frutas novas: caju, pequi, laranja, uva, pera e abacaxi
+
 ## Tecnologia
 
 - Um único `index.html` com CSS e JavaScript embutidos
