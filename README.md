@@ -14,6 +14,7 @@ Abra o `index.html` no navegador ou ative o GitHub Pages (Settings → Pages →
 | Usar ferramenta | Espaço, F ou E | Toque no alvo destacado |
 | Trocar ferramenta | 1 a 8 | Toque na barra |
 | Trocar semente ou construção | R | Toque no chip acima da barra |
+| Zoom | + e − ou rodinha do mouse | Botões + e − ou pinça com dois dedos |
 | Pescar | Espaço para fisgar e segurar | Toque no "!" e segure |
 | Mochila / Mercado | B / M | Botões no canto |
 
