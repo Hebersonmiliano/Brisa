@@ -46,14 +46,14 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 - **Animais:** galinha (ovo), vaca (leite) e ovelha (lã) no Galinheiro e no Estábulo; ração da Bancada ou do Mercado, carinho e corações, Comedouro que alimenta sozinho; gato ou cachorro que segue você e traz presentes
 - **Vila:** praça com poço (enche o regador), barraca da Lia (abre o Mercado) e chalés; quatro moradores que chegam aos poucos (Lia, Tobias, Dona Rosa e Caio), andam pela praça de dia e vão para casa à noite; conversas, pedidos diários com o "!" amarelo, presentes que eles gostam, corações de amizade e um presente especial com 3 corações (bônus de venda, vara dourada, regador grande e a planta do barco)
 - **Barco e Ilhota do Leste:** com a planta do barco (Caio com 3 corações ou Mercado), construa o barco no mar ao lado de um cais e navegue até uma ilhota tropical com palmeiras (madeira e coco), conchas, veios de ouro e cristal, a Árvore Estelar que dá frutos todo dia, um baú escondido e o peixe-arco-íris; ouro vira Estátua dourada e conchas viram Mural
-- **Fazenda:** Aspersor que rega sozinho as 8 terras em volta; pomar com cajueiro, pequizeiro, laranjeira, pereira e parreira (mudas no Mercado, plantadas na grama, adultas em 2 dias e com frutos na sua estação); abacaxi na horta; porco no Chiqueiro (cabem 4) que fuça trufas
+- **Fazenda:** Aspersor que rega sozinho as 8 terras em volta; pomar com cajueiro, pequizeiro, laranjeira, pereira e parreira (mudas no Mercado, plantadas na grama, adultas em 2 dias e com frutos na sua estação); abacaxi na horta; porco no Chiqueiro (cabem 4) que fuça trufas; cercado com Porteira (você passa, os bichos não) e botão Mudar de lugar para levar a casinha com os animais
 - **Receitas no Fogão:** omelete, queijo, bolo de milho, suco de laranja, arroz com pequi, geleia de uva e doce de caju
 - **Estações:** primavera, verão, outono e inverno de 7 dias cada, com paisagem própria (folhas douradas, neve, lago congelado), chuva que rega a horta e neve no inverno
 - **Horta:** nabo, milho, abóbora, morango (rebrota) e melancia, cada um na sua estação; só cresce com a terra regada
 - **Mercado:** venda de tudo o que você produz e compra de sementes e iscas
 - **Música:** trilha lo-fi gerada na hora (piano elétrico, baixo, bateria leve, melodia de sininho), mais calma à noite, e efeitos para cada ação
 - **Festivais:** no último dia de cada estação, das 8h às 20h, a praça ganha bandeirinhas e uma mesa de festa; entregue produtos da estação para somar pontos e ganhar bronze, prata ou ouro (moedas, decorações exclusivas e troféu). Feira das Flores, Concurso das Frutas de Verão, Feira da Colheita e Festival das Lanternas
-- **51 tarefas** em sequência que ensinam cada sistema
+- **52 tarefas** em sequência que ensinam cada sistema
 - **Onde achar:** guia de todos os recursos com ferramenta e lugar, e uma seta amarela que aponta o mais perto (também pela barra do topo)
 - Ciclo de dia e noite com lanternas, borboletas e vagalumes
 
