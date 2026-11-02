@@ -16,7 +16,8 @@ Abra o `index.html` no navegador ou ative o GitHub Pages (Settings → Pages →
 | Trocar semente ou construção | R | Toque no chip acima da barra |
 | Zoom | + e − ou rodinha do mouse | Botões + e − ou pinça com dois dedos |
 | Pescar | Espaço para fisgar e segurar | Toque no "!" e segure |
-| Mochila / Mercado / Guia da casa | B / M / C | Botões no canto |
+| Mochila / Mercado / Guia da casa / Onde achar | B / M / C / G | Botões no canto |
+| Seta até um recurso | Toque no recurso na barra do topo (Esc desliga) | Toque no recurso na barra do topo |
 
 O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticamente.
 
@@ -50,6 +51,7 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 - **Mercado:** venda de tudo o que você produz e compra de sementes e iscas
 - **Música:** trilha lo-fi gerada na hora (piano elétrico, baixo, bateria leve, melodia de sininho), mais calma à noite, e efeitos para cada ação
 - **44 tarefas** em sequência que ensinam cada sistema
+- **Onde achar:** guia de todos os recursos com ferramenta e lugar, e uma seta amarela que aponta o mais perto (também pela barra do topo)
 - Ciclo de dia e noite com lanternas, borboletas e vagalumes
 
 ## Próximas versões
@@ -57,7 +59,7 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 | Versão | Conteúdo |
 | --- | --- |
 | v0.7 | Festivais por estação e decoração da vila |
-| v0.5 | Ilhota secreta e segundo andar da casa |
+| v0.8 | Segundo andar da casa e mais móveis |
 
 ## Tecnologia
 
