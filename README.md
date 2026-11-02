@@ -34,7 +34,7 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 | 7 | Vara | Pesca no lago e no mar |
 | 8 | Construir | Bancada, forno, cais, placa da casa, cercas, lanternas e móveis |
 
-## O que tem (v0.6)
+## O que tem (v0.7)
 
 - **Personagem articulado:** rig de 15 peças com pivôs e animações por keyframes (andar, cortar, minerar, arar, regar, plantar, martelar, lançar, puxar, mostrar o peixe, comemorar), vistas de frente e de costas com espelhamento, piscar de olhos, camisa e chapéu personalizáveis
 - **Recursos:** madeira, pedra, cobre, ferro, cristal, argila, areia, fibra, flores e frutinhas
@@ -45,12 +45,13 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 - **Animais:** galinha (ovo), vaca (leite) e ovelha (lã) no Galinheiro e no Estábulo; ração da Bancada ou do Mercado, carinho e corações, Comedouro que alimenta sozinho; gato ou cachorro que segue você e traz presentes
 - **Vila:** praça com poço (enche o regador), barraca da Lia (abre o Mercado) e chalés; quatro moradores que chegam aos poucos (Lia, Tobias, Dona Rosa e Caio), andam pela praça de dia e vão para casa à noite; conversas, pedidos diários com o "!" amarelo, presentes que eles gostam, corações de amizade e um presente especial com 3 corações (bônus de venda, vara dourada, regador grande e a planta do barco)
 - **Barco e Ilhota do Leste:** com a planta do barco (Caio com 3 corações ou Mercado), construa o barco no mar ao lado de um cais e navegue até uma ilhota tropical com palmeiras (madeira e coco), conchas, veios de ouro e cristal, a Árvore Estelar que dá frutos todo dia, um baú escondido e o peixe-arco-íris; ouro vira Estátua dourada e conchas viram Mural
-- **Receitas novas no Fogão:** omelete, queijo e bolo de milho
+- **Fazenda:** Aspersor que rega sozinho as 8 terras em volta; pomar com cajueiro, pequizeiro, laranjeira, pereira e parreira (mudas no Mercado, plantadas na grama, adultas em 2 dias e com frutos na sua estação); abacaxi na horta; porco que fuça trufas
+- **Receitas no Fogão:** omelete, queijo, bolo de milho, suco de laranja, arroz com pequi, geleia de uva e doce de caju
 - **Estações:** primavera, verão, outono e inverno de 7 dias cada, com paisagem própria (folhas douradas, neve, lago congelado), chuva que rega a horta e neve no inverno
 - **Horta:** nabo, milho, abóbora, morango (rebrota) e melancia, cada um na sua estação; só cresce com a terra regada
 - **Mercado:** venda de tudo o que você produz e compra de sementes e iscas
 - **Música:** trilha lo-fi gerada na hora (piano elétrico, baixo, bateria leve, melodia de sininho), mais calma à noite, e efeitos para cada ação
-- **44 tarefas** em sequência que ensinam cada sistema
+- **49 tarefas** em sequência que ensinam cada sistema
 - **Onde achar:** guia de todos os recursos com ferramenta e lugar, e uma seta amarela que aponta o mais perto (também pela barra do topo)
 - Ciclo de dia e noite com lanternas, borboletas e vagalumes
 
@@ -58,18 +59,16 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 
 | Versão | Conteúdo |
 | --- | --- |
-| v0.7 | Festivais por estação e decoração da vila |
-| v0.8 | Segundo andar da casa e mais móveis |
+| v0.8 | Festivais por estação e decoração da vila |
+| v0.9 | Segundo andar da casa e mais móveis |
 
 ### Ideias na lista (sem ordem definida)
 
-- Regador automático (aspersor) para a horta
 - Ajudante que cuida dos animais e das plantações
 - Melhoria das ferramentas (cobre, ferro e ouro)
 - Mina subterrânea com andares e minérios raros
 - Namoro, casamento e filhos com moradores
-- Porco (trufas) e cavalo (montaria)
-- Frutas novas: caju, pequi, laranja, uva, pera e abacaxi
+- Cavalo (montaria)
 
 ## Tecnologia
 
