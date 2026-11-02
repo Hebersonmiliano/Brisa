@@ -35,7 +35,7 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 | 7 | Vara | Pesca no lago e no mar |
 | 8 | Construir | Bancada, forno, cais, placa da casa, cercas, lanternas e móveis |
 
-## O que tem (v0.8)
+## O que tem (v0.9)
 
 - **Personagem articulado:** rig de 15 peças com pivôs e animações por keyframes (andar, cortar, minerar, arar, regar, plantar, martelar, lançar, puxar, mostrar o peixe, comemorar), vistas de frente e de costas com espelhamento, piscar de olhos, camisa e chapéu personalizáveis
 - **Recursos:** madeira, pedra, cobre, ferro, cristal, argila, areia, fibra, flores e frutinhas
@@ -53,7 +53,8 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 - **Mercado:** venda de tudo o que você produz e compra de sementes e iscas
 - **Música:** trilha lo-fi gerada na hora (piano elétrico, baixo, bateria leve, melodia de sininho), mais calma à noite, e efeitos para cada ação
 - **Festivais:** no último dia de cada estação, das 8h às 20h, a praça ganha bandeirinhas e uma mesa de festa; entregue produtos da estação para somar pontos e ganhar bronze, prata ou ouro (moedas, decorações exclusivas e troféu). Feira das Flores, Concurso das Frutas de Verão, Feira da Colheita e Festival das Lanternas
-- **52 tarefas** em sequência que ensinam cada sistema
+- **Bigorna e ferramentas melhores:** machado, picareta, enxada e regador sobem para cobre, ferro e ouro (fica pronta na manhã seguinte); mais madeira e pedra, minério em dobro, cristal escondido, arar e regar 3 em linha ou 3 × 3, terra adubada e regador que nunca esvazia; ferramenta mais rápida e com a cor do metal
+- **55 tarefas** em sequência que ensinam cada sistema
 - **Onde achar:** guia de todos os recursos com ferramenta e lugar, e uma seta amarela que aponta o mais perto (também pela barra do topo)
 - Ciclo de dia e noite com lanternas, borboletas e vagalumes
 
@@ -61,13 +62,12 @@ O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticament
 
 | Versão | Conteúdo |
 | --- | --- |
-| v0.9 | Segundo andar da casa e mais móveis |
+| v0.10 | Mina com andares e minérios raros |
+| v0.11 | Segundo andar da casa e mais móveis |
 
 ### Ideias na lista (sem ordem definida)
 
 - Ajudante que cuida dos animais e das plantações
-- Melhoria das ferramentas (cobre, ferro e ouro)
-- Mina subterrânea com andares e minérios raros
 - Namoro, casamento e filhos com moradores
 - Cavalo (montaria)
 
