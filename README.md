@@ -17,6 +17,7 @@ Abra o `index.html` no navegador ou ative o GitHub Pages (Settings → Pages →
 | Zoom | + e − ou rodinha do mouse | Botões + e − ou pinça com dois dedos |
 | Pescar | Espaço para fisgar e segurar | Toque no "!" e segure |
 | Mochila / Mercado / Guia da casa / Onde achar | B / M / C / G | Botões no canto |
+| Ver atrás das construções | V | Botão Ver atrás |
 | Seta até um recurso | Toque no recurso na barra do topo (Esc desliga) | Toque no recurso na barra do topo |
 
 O jogo salva sozinho no navegador. Saves da v0.1 são convertidos automaticamente.
